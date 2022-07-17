@@ -130,6 +130,8 @@ Roc 곡선은 민감도와 특이도를 사용해 만든 곡선으로 민감도�
 
 ### Data Description
 
+https://github.com/taesoocho/kaggle_Home_Credit/blob/main/HomeCredit_columns_description.csv
+
 ### Data Merge 관련 코드
 
 ### 데이터 분석 관련 코드
