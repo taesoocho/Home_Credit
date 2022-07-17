@@ -134,4 +134,8 @@ https://github.com/taesoocho/kaggle_Home_Credit/blob/main/HomeCredit_columns_des
 
 ### Data Merge 코드
 
+https://github.com/taesoocho/kaggle_Home_Credit/tree/main/Data_merge
+
 ### 데이터 분석 및 모델링 코드
+
+https://github.com/taesoocho/kaggle_Home_Credit/tree/main/modeling
